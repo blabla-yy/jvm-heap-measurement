@@ -1,0 +1,1 @@
+javah -cp ./src/main/java com.blabla.measurement.HeapMeasurement

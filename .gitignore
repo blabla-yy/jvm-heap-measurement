@@ -1,0 +1,11 @@
+.vscode
+.idea
+out/
+build/
+*.iml
+target/
+*.dylib
+*.so
+*.dll
+*.a
+.DS_Store
